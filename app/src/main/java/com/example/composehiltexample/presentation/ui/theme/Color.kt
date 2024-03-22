@@ -1,4 +1,4 @@
-package com.example.composehiltexample.ui.theme
+package com.example.composehiltexample.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

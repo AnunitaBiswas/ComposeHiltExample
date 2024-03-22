@@ -1,4 +1,4 @@
-package com.example.composehiltexample.ui.theme
+package com.example.composehiltexample.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
